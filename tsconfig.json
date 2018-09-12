@@ -1,0 +1,18 @@
+{
+  //Opções de compilação
+  "compilerOptions": {
+    //Qual a versão do ecmascript será compilada
+    "target": "es5",
+    //Geração de módulo padrão
+    "module": "commonjs",
+    //Criará um source map
+    "sourceMap": true,
+    //Salvar e gerar automaticamente o arquivo javascript
+    "watch": true
+  },
+
+  //Quais pastas serão transpiladas
+  "include": [
+    "src/**/*"
+  ]
+}
