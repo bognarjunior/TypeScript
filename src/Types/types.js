@@ -67,5 +67,5 @@ qualquer = true;
 function print(msg) {
     console.log("Fun\u00E7\u00E3o sem retorno: " + msg);
 }
-print('Escreva algo na tela');
+print('Escreve algo na tela');
 //# sourceMappingURL=types.js.map
