@@ -65,8 +65,8 @@ qualquer = true;
  * Void
  */
 
-function print(msg: string ): void {
+function printt(msg: string ): void {
   console.log(`Função sem retorno: ${msg}`);
 }
 
-print('Escreve algo na tela');
+printt('Escreve algo na tela');

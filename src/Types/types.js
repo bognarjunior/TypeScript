@@ -64,8 +64,8 @@ qualquer = true;
 /**
  * Void
  */
-function print(msg) {
+function printt(msg) {
     console.log("Fun\u00E7\u00E3o sem retorno: " + msg);
 }
-print('Escreve algo na tela');
+printt('Escreve algo na tela');
 //# sourceMappingURL=types.js.map
